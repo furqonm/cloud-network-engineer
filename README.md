@@ -57,7 +57,7 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
  2. Perbedaan enforce mode dan dry-run mode.
 
 - [General DNS overview](https://cloud.google.com/dns/docs/dns-overview) untuk mempelajari:
- - Perbedaan Public, Private dan Split horizon DNS.
+  - Perbedaan Public, Private dan Split horizon DNS.
 
 - [DNS zones overview](https://cloud.google.com/dns/docs/zones/zones-overview) dan [Cloud DNS peering](https://cloud.google.com/blog/products/networking/how-to-use-cloud-dns-peering-in-a-shared-vpc-environment) untuk mempelajari:
  1. Pilihan forwarding DNS query dari on-prem ke Google atau dari Google ke on-prem.

@@ -25,45 +25,45 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
 ## Official Documentation
 - [Routes](https://cloud.google.com/vpc/docs/routes) untuk mempelajari:
-1. Perbedaan static, dynamic, subnet route, dan route lainnya.
-2. Routing order.
-3. Beberapa opsi pada static route next hop.
+ 1. Perbedaan static, dynamic, subnet route, dan route lainnya.
+ 2. Routing order.
+ 3. Beberapa opsi pada static route next hop.
 
 - [VPC-native clusters](https://cloud.google.com/kubernetes-engine/docs/concepts/alias-ips) untuk mempelajari:
-1. Apa itu VPC-native clusters di Google Kubernetes Engine.
-2. Perbandingan antara VPC-native clusters dengan routes-based cluster.
-3. Perencanaan IP address range untuk beberapa pod dan service.
+ 1. Apa itu VPC-native clusters di Google Kubernetes Engine.
+ 2. Perbandingan antara VPC-native clusters dengan routes-based cluster.
+ 3. Perencanaan IP address range untuk beberapa pod dan service.
   
 - [Best practices for GKE networking](https://cloud.google.com/kubernetes-engine/docs/best-practices/networking) untuk mempelajari:
-1. Apa itu private cluster di Google Kubernetes Engine.
-2. Keamanan control plane suatu cluster.
+ 1. Apa itu private cluster di Google Kubernetes Engine.
+ 2. Keamanan control plane suatu cluster.
 
 - [Configuring privately used public IPs for GKE](https://cloud.google.com/architecture/configuring-privately-used-public-ips-for-GKE) untuk mempelajari:
-1. Bagaimana menggunakan public IP sebagai IP private untuk pod di cluster Kubernetes.
+ 1. Bagaimana menggunakan public IP sebagai IP private untuk pod di cluster Kubernetes.
 
 - [Private Google Access for on-premises hosts](https://cloud.google.com/vpc/docs/private-google-access-hybrid) untuk mempelajari:
-1. Bagaimana kalau aplikasi di on-premise ingin akses Google API bukan melalui internet, tapi koneksi Interconnect atau VPN.
+ 1. Bagaimana kalau aplikasi di on-premise ingin akses Google API bukan melalui internet, tapi koneksi Interconnect atau VPN.
 
 - [Serverless VPC Access](https://cloud.google.com/vpc/docs/serverless-vpc-access) untuk mempelajari:
-1. Bagaimana agar serverless service bisa mengakses resource didalam VPC.
-2. Support dari Serverless VPC Access.
+ 1. Bagaimana agar serverless service bisa mengakses resource didalam VPC.
+ 2. Support dari Serverless VPC Access.
 
 - [Overview of VPC Service Controls](https://cloud.google.com/vpc-service-controls/docs/overview) untuk mempelajari:
-1. Apa itu VPC Service Control.
-2. Proteksi apa yang bisa diberikan VPC Service Control.
+ 1. Apa itu VPC Service Control.
+ 2. Proteksi apa yang bisa diberikan VPC Service Control.
 
 - [Service perimeter details and configuration](https://cloud.google.com/vpc-service-controls/docs/service-perimeters) untuk mempelajari:
-1. Apa itu service perimeter.
-2. Perbedaan enforce mode dan dry-run mode.
+ 1. Apa itu service perimeter.
+ 2. Perbedaan enforce mode dan dry-run mode.
 
 - [General DNS overview](https://cloud.google.com/dns/docs/dns-overview) untuk mempelajari:
-1. Perbedaan Public, Private dan Split horizon DNS.
+ - Perbedaan Public, Private dan Split horizon DNS.
 
 - [DNS zones overview](https://cloud.google.com/dns/docs/zones/zones-overview) dan [Cloud DNS peering](https://cloud.google.com/blog/products/networking/how-to-use-cloud-dns-peering-in-a-shared-vpc-environment) untuk mempelajari:
-1. Pilihan forwarding DNS query dari on-prem ke Google atau dari Google ke on-prem.
-2. Perbedaan forwarding zone, peering zone, managed reserve lookup zone, cross-project binding.
-3. Forwarding targets dan routing methods.
+ 1. Pilihan forwarding DNS query dari on-prem ke Google atau dari Google ke on-prem.
+ 2. Perbedaan forwarding zone, peering zone, managed reserve lookup zone, cross-project binding.
+ 3. Forwarding targets dan routing methods.
 
 - [DNS server policies](https://cloud.google.com/dns/docs/server-policies-overview) untuk mempelajari:
-1. Penggunaan inbound dan outbound policy.
-2. Alternative name servers dan routing methods.
+ 1. Penggunaan inbound dan outbound policy.
+ 2. Alternative name servers dan routing methods.

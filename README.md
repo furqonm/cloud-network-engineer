@@ -61,4 +61,9 @@ _[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan ma
 
 - [DNS zones overview](https://cloud.google.com/dns/docs/zones/zones-overview) dan [Cloud DNS peering](https://cloud.google.com/blog/products/networking/how-to-use-cloud-dns-peering-in-a-shared-vpc-environment) untuk mempelajari:
 1. Pilihan forwarding DNS query dari on-prem ke Google atau dari Google ke on-prem.
-2. Perbedaan forwarding zone, peering zone, managed reserve lookup zone, cross-project binding
+2. Perbedaan forwarding zone, peering zone, managed reserve lookup zone, cross-project binding.
+3. Forwarding targets dan routing methods.
+
+- [DNS server policies](https://cloud.google.com/dns/docs/server-policies-overview) untuk mempelajari:
+1. Penggunaan inbound dan outbound policy.
+2. Alternative name servers dan routing methods.

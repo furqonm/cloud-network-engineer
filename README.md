@@ -1,29 +1,25 @@
 # Preparation for Google Professional Cloud Network Engineer
-_[DISCLAIMER] Links dan materials yang ada disini dipergunakan untuk tambahan materi belajar. Sumber belajar yang saya dokumentasikan sendiri ini tidak merepresentasikan informasi resmi dari pihak Google Cloud, meskipun beberapa link dan material bersumber resmi dari Google Cloud._
+_[DISCLAIMER] All links and materials in this repository are for exam preparation of Google Professional Cloud Network Engineer certification. The learning resources documented here do not represent official information from Google Cloud, although some resources are officially from Google Cloud._
 
 ---
 ## Exam Preparation Materials
-### 1. Exam Guide
+### 1. Google Cloud Course
+- [Networking in Google Cloud: Defining and Implementing Networks](https://www.cloudskillsboost.google/course_templates/35?catalog_rank=%7B%22rank%22%3A4%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=20681003)
+- [Networking in Google Cloud: Hybrid Connectivity and Network Management](https://www.cloudskillsboost.google/course_templates/36?catalog_rank=%7B%22rank%22%3A3%2C%22num_filters%22%3A1%2C%22has_search%22%3Atrue%7D&search_id=20680988)
+
+    > Official e-learning from Google Cloud. If you attended Networking in Google Cloud class before, we able to rewatch what we learned with this e-learning.
+
+### 2. Exam Guide
 - [Professional Cloud Network Engineer: Certification Exam Guide](https://cloud.google.com/certification/guides/cloud-network-engineer)
 
-    > Membahas 5 domain/section yang akan ditanyakan diujian. Bisa dicek beberapa poin mana yang tidak dimengerti untuk dipelajari lebih lanjut.
+    > 5 domains/sections in an exam that we can cover to understand which topic we don't know and need to explore further.
 
-### 2. Exam Readiness
+### 3. Exam Readiness
 - [Professional Cloud Network Engineer Sample Questions](https://docs.google.com/forms/d/e/1FAIpQLServ0tNGkr-dYAfmez_Gdk74dmVypZjzUKrkVFtFcArzhmPow/viewform)
 
-    > Simulasi ujian via Google Forms untuk mengenali format pertanyaan ujian GCP PCNE nanti.
+    > Official exam questions for Google Professional Cloud Network Engineer via Google Forms.
 
-## Hands-on Labs (Optional)
-### 1. Free Labs
-- [Google Cloud Skills Boost](https://www.cloudskillsboost.google/catalog?price%5B%5D=free)
-
-    > Kumpulan lab Google Cloud yang disediakan gratis. Untuk mencoba bisa mendaftar menggunakan akun Google kita.
-
-- [Google Cloud Skill Badges](https://cloud.google.com/training/badges)
-
-    > Gratis 30 hari untuk mengakses labs dan challenge labs. Kalau kita selesaikan semuanya, kita mendapatkan Google Cloud digital skill badge yang bisa dishare ke social media.
-
-## Official Documentation
+### 4. Official Documentation
 - [Routes](https://cloud.google.com/vpc/docs/routes) untuk mempelajari:
   - Perbedaan static, dynamic, subnet route, dan route lainnya.
   - Routing order.

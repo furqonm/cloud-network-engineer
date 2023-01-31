@@ -1,4 +1,4 @@
-# Preparation for Google Professional Cloud Network Engineer
+# Preparation for Google Professional Cloud Network Engineer (PCNE) Certification
 _[DISCLAIMER] All links and materials in this repository are for exam preparation of Google Professional Cloud Network Engineer certification. The learning resources documented here do not represent official information from Google Cloud, although some resources are officially from Google Cloud._
 
 ---

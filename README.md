@@ -39,7 +39,7 @@ _[DISCLAIMER] All links and materials in this repository are for exam preparatio
   - How to use public IP as private IP for the pod.
 
 - [Private Google Access for on-premises hosts](https://cloud.google.com/vpc/docs/private-google-access-hybrid)
-  - How an on-premise application access Google API without internet, instead via Interconnect atau VPN.
+  - How an on-premise application access Google API without internet, instead via Interconnect or VPN.
 
 - [Serverless VPC Access](https://cloud.google.com/vpc/docs/serverless-vpc-access)
   - How serverless resource can access resources inside the VPC.
@@ -54,7 +54,7 @@ _[DISCLAIMER] All links and materials in this repository are for exam preparatio
   - Diffence of enforce mode and dry-run mode.
 
 - [General DNS overview](https://cloud.google.com/dns/docs/dns-overview)
-  - Difference between public, private dan split horizon DNS.
+  - Difference between public, private and split horizon DNS.
 
 - [DNS zones overview](https://cloud.google.com/dns/docs/zones/zones-overview) and [Cloud DNS peering](https://cloud.google.com/blog/products/networking/how-to-use-cloud-dns-peering-in-a-shared-vpc-environment)
   - How to forward DNS query from on-prem to Google or from Google to on-prem.

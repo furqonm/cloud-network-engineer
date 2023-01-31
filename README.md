@@ -21,7 +21,7 @@ _[DISCLAIMER] All links and materials in this repository are for exam preparatio
 
 ### 4. Official Documentation
 
-- [Routes](https://cloud.google.com/vpc/docs/routes) untuk mempelajari:
+- [Routes](https://cloud.google.com/vpc/docs/routes)
   - Difference between static, dynamic, subnet route, other routing option.
   - Routing order.
   - Next hop options in routing.

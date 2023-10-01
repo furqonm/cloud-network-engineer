@@ -15,6 +15,11 @@ _[DISCLAIMER] All links and materials in this repository are for exam preparatio
     > 5 domains/sections in an exam that we can cover to understand which topic we don't know and need to explore further.
 
 ### 3. Exam Readiness
+
+- [Preparing for Your Professional Cloud Network Engineer Journey](https://www.cloudskillsboost.google/journeys/14/course_templates/383)
+
+    > E-learning untuk latihan persiapan ujian Google Professional Cloud Network Engineer dari Google Cloud. Materi berisikan eksplorasi topik yang keluar di ujian dan beberapa contoh soal ujian.
+
 - [Professional Cloud Network Engineer Sample Questions](https://docs.google.com/forms/d/e/1FAIpQLServ0tNGkr-dYAfmez_Gdk74dmVypZjzUKrkVFtFcArzhmPow/viewform)
 
     > Official exam questions for Google Professional Cloud Network Engineer via Google Forms.
